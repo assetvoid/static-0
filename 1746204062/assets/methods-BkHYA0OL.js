@@ -1,0 +1,1 @@
+function s(n){n.layerImageHasTransition=!0,setTimeout(()=>{n.layerImageHasTransition=!1},400)}function u({localStore:n,e}){n.menuX=e.pageX,n.menuY=e.pageY,n.menuShow=!0}function a(n,e,i){if(e){if(n.layerWithMenuId===e.id&&n.menuShow){n.menuShow=!1;return}n.layerWithMenuId=e.id,u({localStore:n,e:i})}else n.layerWithMenuId="",u({localStore:n,e:i})}export{s as c,a as r,u as s};
