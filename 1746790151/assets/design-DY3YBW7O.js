@@ -1,0 +1,1 @@
+const e=()=>[{title:"Very cool app"},{name:"description",content:"This app is the best"},{name:"viewport",content:"width=device-width,user-scalable=no,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0"}];function t(){return"design"}export{t as default,e as meta};
