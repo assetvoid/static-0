@@ -1,0 +1,1 @@
+const o={primaryColor:"#1890ff",borderColor:"rgba(0, 0, 0, 0.08)",backgroundColor:"#F8FAFC",secondaryTextColor:"#898b8d",activeTextColor:"rgb(22, 119, 255)",activeBackgroundColor:"rgb(230, 244, 255)",disabledColor:"rgb(180, 184, 191)",boxShadow:"0 0 8px rgba(0, 0, 0, 0.08)",activeGray:"#e8eaec"};export{o as s};
